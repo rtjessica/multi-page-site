@@ -9,6 +9,7 @@ ul {
 
 li {
   display: inline;
+  padding: 16px auto;
 }
 
 a .navi {
