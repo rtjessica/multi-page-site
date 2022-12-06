@@ -9,11 +9,12 @@ ul {
 
 li {
   display: inline;
-  padding: 16px auto;
+  padding: 16px;
 }
 
 a .navi {
   display: block;
   color: green;
   max-width: 100;
+  padding: 16px;
 }
