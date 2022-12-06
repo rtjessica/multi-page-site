@@ -12,9 +12,13 @@ li {
   padding: 16px;
 }
 
+img {
+  max-width: 100;
+  border-radius: 10px;
+}
+
 a .navi {
   display: block;
   color: green;
-  max-width: 100;
   padding: 16px;
 }
